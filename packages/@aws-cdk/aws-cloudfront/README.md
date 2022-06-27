@@ -477,7 +477,7 @@ new cloudfront.Distribution(this, 'distro', {
 });
 ```
 
-Write your Lambda@Edge code in Typescript in the same manner as [NodejsFunction](NOT SURE HOW TO LINK HERE).
+Write your Lambda@Edge code in Typescript in the same manner as [NodejsFunction](../aws-lambda-nodejs/README.md).
 
 ```ts
 // Lambda@Edge code written in Typescript
